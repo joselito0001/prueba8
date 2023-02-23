@@ -31,3 +31,7 @@ https://i.imgur.com/0AiJcrC.png
 #EXTINF:-1 group-title="",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 https://i.imgur.com/lK52fpm.png
+
+#EXTINF:-1 group-title="",espejo
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+https://i.imgur.com/lK52fpm.png
