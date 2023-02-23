@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Channel 8 Thailand
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+https://i.imgur.com/hzdMjA1.jpg
+
+#EXTINF:-1 group-title="",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+http://ctbtv.co.th/indexctb/ctbtv1.png
+
+#EXTINF:-1 group-title="",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+https://i.imgur.com/QZ2WcZl.jpg
+
+#EXTINF:-1 group-title="",NBT Central
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+https://i.imgur.com/Glr0CJE.png
+
+#EXTINF:-1 group-title="",News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+https://news1live.com/images/social-share-logo.png
+
+#EXTINF:-1 group-title="",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+https://i.imgur.com/b4l0w2m.png
+
+#EXTINF:-1 group-title="",Thairath TV 32
+http://live.thairath.co.th/trtv2/playlist.m3u8
+https://i.imgur.com/0AiJcrC.png
+
+#EXTINF:-1 group-title="",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+https://i.imgur.com/lK52fpm.png
