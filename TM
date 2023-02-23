@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg
+
+#EXTINF:-1 group-title="",Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg
+
+
+#EXTINF:-1 group-title="",Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+http://webtvonlive.com/wp-content/uploads/T%C3%BCrkmen-Owazy-webtvonlive-com.jpg
+
+#EXTINF:-1 group-title="Sport",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg
+
+#EXTINF:-1 group-title="",Türkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
+http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg
+
+#EXTINF:-1 group-title="",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg
+
+#EXTINF:-1 group-title="",espejo
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg
