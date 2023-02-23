@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Akit TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+https://i.ibb.co/zG7NM55/Jagn7PG.png
+
+#EXTINF:-1 group-title="",Altaş TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+https://i.ibb.co/37VNK2B/Nnsnayw.png
+
+#EXTINF:-1 group-title="",Beşiktaş Web TV
+http://s01.vpis.io/besiktas/besiktas.m3u8
+https://i.ibb.co/bRhnM6W/qti5aea.png
+
+#EXTINF:-1 group-title="",Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
+https://i.ibb.co/N2Yc8Yf/k6DUajb.png
+
+#EXTINF:-1 group-title="",Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+https://i.ibb.co/qdBr2fH/kgwc6oT.jpg
+
+#EXTINF:-1 group-title="",Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+https://i.ibb.co/80d40Qb/e2K5ixJ.png
+
+#EXTINF:-1 group-title="",ETV Manisa
+https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
+https://i.ibb.co/QKXtdkz/sOd3INg.png
+
+#EXTINF:-1 group-title="",Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
+https://i.ibb.co/Jq49Y1g/uHAGsRk.png
+
+#EXTINF:-1 group-title="",Kanal Urfa
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
+https://i.ibb.co/bmv9sVP/UbVZFtm.png
+
+#EXTINF:-1 group-title="",Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
+https://i.ibb.co/SBw828K/f460YQg.png
+
+#EXTINF:-1 group-title="",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg
+
+#EXTINF:-1 group-title="",tivi TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+https://i.ibb.co/9TDs8q8/IFE6LHH.jpg
+
+#EXTINF:-1 group-title="News",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://i.ibb.co/HTzkq9P/iJIHMq9.png
+
+#EXTINF:-1 group-title="Kids",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+https://i.ibb.co/c1zC46V/idYZDje.jpg
+
+#EXTINF:-1 group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://i.ibb.co/phw4pjP/mjTjJ1N.png
+
+#EXTINF:-1 group-title="News",ewspejo
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+https://i.ibb.co/phw4pjP/mjTjJ1N.png
