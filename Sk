@@ -43,6 +43,10 @@ https://i.imgur.com/3cEG19H.jpg
 #EXTINF:-1 group-title="",TV Reduta
 rtmp://s1.media-planet.sk:80/live/reduta
 
+
+#EXTINF:-1 group-title="",espejo
+rtmp://s1.media-planet.sk:80/live/reduta
+
 #EXTINF:-1 group-title="",TV Ružinov
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 https://i.imgur.com/wmkg1FG.png
@@ -50,6 +54,14 @@ https://i.imgur.com/wmkg1FG.png
 #EXTINF:-1 group-title="",TV Turzovka
 rtmp://s1.media-planet.sk:80/live/turzovka
 
+
+#EXTINF:-1 group-title="",espejo
+rtmp://s1.media-planet.sk:80/live/reduta
+
 #EXTINF:-1 group-title="",Wau TV
 https://nn.geo.joj.sk/hls/wau-540.m3u8
 https://i.imgur.com/nRDWpNs.jpg
+
+
+#EXTINF:-1 group-title="",espejo
+rtmp://s1.media-planet.sk:80/live/reduta
