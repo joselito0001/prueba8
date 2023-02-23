@@ -45,7 +45,7 @@ rtmp://s1.media-planet.sk:80/live/reduta
 
 
 #EXTINF:-1 group-title="",espejo
-rtmp://s1.media-planet.sk:80/live/reduta
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 
 #EXTINF:-1 group-title="",TV Ružinov
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
@@ -56,7 +56,7 @@ rtmp://s1.media-planet.sk:80/live/turzovka
 
 
 #EXTINF:-1 group-title="",espejo
-rtmp://s1.media-planet.sk:80/live/reduta
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 
 #EXTINF:-1 group-title="",Wau TV
 https://nn.geo.joj.sk/hls/wau-540.m3u8
@@ -64,4 +64,4 @@ https://i.imgur.com/nRDWpNs.jpg
 
 
 #EXTINF:-1 group-title="",espejo
-rtmp://s1.media-planet.sk:80/live/reduta
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
