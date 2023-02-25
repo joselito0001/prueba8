@@ -1,0 +1,93 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",GOOD TV1
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV1
+http://live.streamingfast.net/osmflivech1.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV14
+http://live.streamingfast.net/osmflivech14.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV2
+http://live.streamingfast.net/osmflivech2.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV3
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV5
+http://live.streamingfast.net/osmflivech5.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV6
+http://live.streamingfast.net/osmflivech6.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV7
+http://live.streamingfast.net/osmflivech7.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV8
+http://live.streamingfast.net/osmflivech8.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD TV9
+http://live.streamingfast.net/osmflivech9.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",GOOD真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+https://i.imgur.com/bOuErKv.jpg
+
+#EXTINF:-1 group-title="",唯心电视台wxtv
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+https://i.imgur.com/LkbfQoZ.jpg
+
+#EXTINF:-1 group-title="",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+https://i.imgur.com/0zJYyXH.jpg
+
+#EXTINF:-1 group-title="",靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+https://i.imgur.com/xc7QiyI.png
+
+#EXTINF:-1 group-title="",靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+https://i.imgur.com/1PmloYC.jpg
+
+#EXTINF:-1 group-title="",靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+https://i.imgur.com/1PmloYC.jpg
+
+#EXTINF:-1 group-title="",靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+https://i.imgur.com/dvt0GTy.png
+
+#EXTINF:-1 group-title="",靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+https://i.imgur.com/XNrGXtL.jpg
+
+#EXTINF:-1 group-title="News",靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+https://i.imgur.com/shKvuIm.jpg
+
+#EXTINF:-1 group-title="Movies",靖天電影
+http://61.58.60.230:9319/live/244.m3u8
+https://i.imgur.com/z5io5E8.jpg
+
+#EXTINF:-1 group-title="Kids",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+https://i.imgur.com/KoZMAWS.jpg
