@@ -1,0 +1,93 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+https://i.imgur.com/11llLr1.jpg
+
+#EXTINF:-1 group-title="",4 канал
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+https://i.imgur.com/8k3JjOW.png
+
+#EXTINF:-1 group-title="",7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+https://i.imgur.com/nJvGdoj.jpg
+
+#EXTINF:-1 group-title="",BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+https://i.imgur.com/LIk85IA.png
+
+#EXTINF:-1 group-title="",Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+https://i.imgur.com/Uy9gD3l.jpg
+
+#EXTINF:-1 group-title="",Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+https://i.imgur.com/f0nOjL8.png
+
+#EXTINF:-1 group-title="",Думская TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+https://dumskaya.net/i3/logotv.png
+
+#EXTINF:-1 group-title="",Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+https://i.imgur.com/s6YES8x.jpg
+
+#EXTINF:-1 group-title="",М2
+http://live.m2.tv/hls3/stream.m3u8
+http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png
+
+#EXTINF:-1 group-title="",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+http://4.bp.blogspot.com/-2jLl6rP9uB0/UWCjNwyiHqI/AAAAAAAABXA/giDBQTC3Gvw/s1600/ont3+copy.jpg
+
+#EXTINF:-1 group-title="",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+http://4.bp.blogspot.com/-2jLl6rP9uB0/UWCjNwyiHqI/AAAAAAAABXA/giDBQTC3Gvw/s1600/ont3+copy.jpg
+
+#EXTINF:-1 group-title="",Первый городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+http://big-tv.org/uploads/posts/2017-11/thumbs/1510692123_pervyy-gorodskoy-krivoy-rog.png
+
+#EXTINF:-1 group-title="",Первый городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+https://sun9-18.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg
+
+#EXTINF:-1 group-title="",Правда ТУТ Киев
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="",Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="",ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="",ТВА (Чернiвцi)
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="" group-title="",ТИС ТВ
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+http://www.tistv.news/wp-content/uploads/2018/02/logo-main-2.png
+
+#EXTINF:-1 group-title="",Чернівецький Промінь
+http://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
